@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(247, 0, 0)
+}
+.Header{
+    background-color: rgb(117, 234, 255);
+    display: flex;
+    justify-content: space-between;
+}
+.chameleon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.fact1{
+    display: flex;
+    justify-content: right;
+}
+.pigeon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.fact2{
+    display: flex;
+    justify-content: left;
+}
+.origamis{
+    background-color:rgb(167, 255, 182) ;
+}
